@@ -1,0 +1,14 @@
+D:\Jonnathan\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.exe
+D:\Jonnathan\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.deps.json
+D:\Jonnathan\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.runtimeconfig.json
+D:\Jonnathan\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.dll
+D:\Jonnathan\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.pdb
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfoInputs.cache
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfo.cs
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.csproj.CoreCompileInputs.cache
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.dll
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\refint\Aula02RH.dll
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.pdb
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.genruntimeconfig.cache
+D:\Jonnathan\DS\Aula02RH\obj\Debug\net8.0\ref\Aula02RH.dll
